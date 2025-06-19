@@ -59,3 +59,14 @@ First Project in MLE course series.
 
 --------
 
+## Problema de Machine Learning 💻.
+
+## Diagrama de flujo del proyecto 🔀.
+
+## Dataset 📚.
+
+## Model Card 📄.
+
+## Resultados 📊.
+
+## Conclusiones 🤔.
